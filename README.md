@@ -7,6 +7,7 @@
 
 
 - Pseint: https://github.com/FullStackEgg/Pseint-Estructuras-de-control
-- Java: https://github.com/FullStackEgg/Programacion-Java
+- Introducción Java: https://github.com/FullStackEgg/Programacion-Java
+- POO Java: https://github.com/FullStackEgg/Java-POO
 - ...🛠️🛠️🛠️
 
